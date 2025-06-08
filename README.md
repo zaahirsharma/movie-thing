@@ -97,3 +97,8 @@ Open a Pull Request
 
 License
 Distributed under the MIT License. See LICENSE for more information.
+
+Contact
+Zaahir Sharma - sharma.zaahir@gmail.com - https://www.linkedin.com/in/zaahir-sharma/
+
+Project Link: [[https://github.com/zaahirsharma/movie-thing](https://github.com/zaahirsharma/movie-thing)]
